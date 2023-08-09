@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Me Chamo **Victor Carpinelli**
   
-- 🎓 &nbsp; Estudando **Ciências da Computação** no <a href="https://www.unip.br/">UNIP</a>.
+- 🎓 &nbsp; Estudando **Computação** na <a href="https://univesp.br/">UNIVESP</a>.
   
 - 🌱 &nbsp; Aprendendo mais sobre JavaScrpit e Java.
 <p align="center">
