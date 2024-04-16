@@ -3,7 +3,7 @@
 <br>
 <br>
 
-  <h1 align="center"> <i>Hello Word!</i>  </h1>
+  <h1 align="center"> <i>Hello World!</i>  </h1>
 
 - 🤔 &nbsp; Me Chamo **Victor Carpinelli**
   
