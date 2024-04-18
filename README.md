@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Me Chamo **Victor Carpinelli**
   
-- 🎓 &nbsp; Estudando **Computação** na <a href="https://univesp.br" target="_blank" rel="noopener noreferrer">UNIVESP</a>.
+- 🎓 &nbsp; Estudando **Computação** na <a href="https://univesp.br">UNIVESP</a>.
   
 - 🌱 &nbsp; Aprendendo mais sobre Python e JavaScript.
 
