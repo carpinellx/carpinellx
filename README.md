@@ -31,7 +31,7 @@
 <a href="https://github.com/carpinellx">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=carpinellx&show_icons=true&theme=nord&line_height=27" alt="carpinellx github stats"/>
 
-<h2>:rocket: &nbsp;Minhas Skills :rocket</h2> 
+<h2>:rocket: &nbsp;Minhas Skills :rocket:</h2> 
 
 <h3>  <ins>Aplicações e Dados</ins> </h3>
 
@@ -49,7 +49,7 @@
 <h3> <ins> Ferramentas de Desenvolvimento </ins> </h3> 
 
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
-  [![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)](https://www.figma.com)
+  [![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)](https://www.figma.com)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
   
