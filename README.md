@@ -7,7 +7,7 @@
 
 <h1 align="center"> <i>Hello World!</i>  </h1>
 
-- 🤔 &nbsp; Me Chamo **Victor Carpinelli**
+- 🤔 &nbsp; Me chamo **Victor Carpinelli**
   
 - 🎓 &nbsp; Estudando **Computação** na <a href="https://univesp.br">UNIVESP</a>.
   
