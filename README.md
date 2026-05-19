@@ -33,36 +33,7 @@ Sobre Mim:
 O que estou aprendendo e usando:
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="Ícone HTML">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="Ícone CSS">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="Ícone JavaScript">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Ícone Git">
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Ícone GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Ícone VS Code">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Ícone Tailwind CSS">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Ícone Python">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="Ícone PostgreSQL">
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Ícone Figma">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cs,dotnet,postgresql,mongodb,firebase,aws,git,github,vscode,tailwindcss,selenium" alt="Minhas Skills">
 </p>
 
   ---
